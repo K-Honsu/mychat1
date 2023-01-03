@@ -26,7 +26,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY_MYCHAT')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mychat1.vercel.app/']
 
 
 # Application definition
