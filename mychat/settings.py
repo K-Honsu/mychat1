@@ -27,7 +27,7 @@ SECRET_KEY =' 38d28a6937fd33ff32fc210341447324'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['chat-app-k17m.onrender.com']
+ALLOWED_HOSTS = ['chat-app-k17m.onrender.com', '127.0.0.1:8000', '127.0.0.1']
 
 
 # Application definition
